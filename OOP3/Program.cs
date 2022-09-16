@@ -10,5 +10,6 @@ ILoggerService fileloggerService = new FileLoggerService();
 
 List<IKrediManager> krediler = new List<IKrediManager>() {ihtiyacKrediManager,konutKrediManager,tasitKrediManager };
 //basvuruManager.KrediOnBilgilendirmesiYap(krediler);
-basvuruManager.BasvuruYap(ihtiyacKrediManager,fileloggerService);
-basvuruManager.BasvuruYap(new EsnafKrediManager(), new SmSLoggerService());
+//basvuruManager.BasvuruYap(ihtiyacKrediManager,fileloggerService);
+List<ILoggerService> loggers = new List<ILoggerService> {fileloggerService,dataloggerService };
+basvuruManager.BasvuruYap(new EsnafKrediManager(), loggers);
