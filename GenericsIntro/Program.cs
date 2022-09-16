@@ -1,9 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using GenericsIntro;
 
-MyList<int> den = new MyList<int>();
-den.Add(1);
-den.Add(2);
-den.Add(3);
-den.Add(4);
-den.Add(5);
+//MyList<int> den = new MyList<int>();
+List<string> list = new List<string>();
+MyList<string> list2 = new MyList<string>();
+list2.Add("Emre");
+list2.Add("ahmet");
+list2.Add("yuhnnus");
+list2.Add("Emre");
+Console.WriteLine(list2.Count);
+list2.Listele();

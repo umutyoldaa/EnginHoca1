@@ -1,0 +1,15 @@
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\bin\Debug\net6.0\EnginHoca1.exe
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\bin\Debug\net6.0\EnginHoca1.deps.json
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\bin\Debug\net6.0\EnginHoca1.runtimeconfig.json
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\bin\Debug\net6.0\EnginHoca1.dll
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\bin\Debug\net6.0\EnginHoca1.pdb
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\obj\Debug\net6.0\EnginHoca1.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\obj\Debug\net6.0\EnginHoca1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\obj\Debug\net6.0\EnginHoca1.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\obj\Debug\net6.0\EnginHoca1.AssemblyInfo.cs
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\obj\Debug\net6.0\EnginHoca1.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\obj\Debug\net6.0\EnginHoca1.dll
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\obj\Debug\net6.0\refint\EnginHoca1.dll
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\obj\Debug\net6.0\EnginHoca1.pdb
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\obj\Debug\net6.0\EnginHoca1.genruntimeconfig.cache
+C:\Users\Emre\source\repos\EnginHoca1\EnginHoca1\obj\Debug\net6.0\ref\EnginHoca1.dll

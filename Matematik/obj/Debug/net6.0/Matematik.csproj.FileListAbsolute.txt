@@ -1,0 +1,15 @@
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\bin\Debug\net6.0\Matematik.exe
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\bin\Debug\net6.0\Matematik.deps.json
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\bin\Debug\net6.0\Matematik.runtimeconfig.json
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\bin\Debug\net6.0\Matematik.dll
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\bin\Debug\net6.0\Matematik.pdb
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\obj\Debug\net6.0\Matematik.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\obj\Debug\net6.0\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\obj\Debug\net6.0\Matematik.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\obj\Debug\net6.0\Matematik.AssemblyInfo.cs
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\obj\Debug\net6.0\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\obj\Debug\net6.0\Matematik.dll
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\obj\Debug\net6.0\refint\Matematik.dll
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\obj\Debug\net6.0\Matematik.pdb
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\obj\Debug\net6.0\Matematik.genruntimeconfig.cache
+C:\Users\Emre\source\repos\EnginHoca1\Matematik\obj\Debug\net6.0\ref\Matematik.dll
