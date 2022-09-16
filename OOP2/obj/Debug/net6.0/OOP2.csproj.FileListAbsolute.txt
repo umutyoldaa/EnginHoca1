@@ -1,0 +1,15 @@
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\bin\Debug\net6.0\OOP2.exe
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\bin\Debug\net6.0\OOP2.deps.json
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\bin\Debug\net6.0\OOP2.runtimeconfig.json
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\bin\Debug\net6.0\OOP2.dll
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\bin\Debug\net6.0\OOP2.pdb
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\obj\Debug\net6.0\OOP2.csproj.AssemblyReference.cache
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\obj\Debug\net6.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfoInputs.cache
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfo.cs
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\obj\Debug\net6.0\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\obj\Debug\net6.0\OOP2.dll
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\obj\Debug\net6.0\refint\OOP2.dll
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\obj\Debug\net6.0\OOP2.pdb
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\obj\Debug\net6.0\OOP2.genruntimeconfig.cache
+C:\Users\Emre\source\repos\EnginHoca1\OOP2\obj\Debug\net6.0\ref\OOP2.dll
